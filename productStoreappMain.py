@@ -178,16 +178,13 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-today = datetime.now()
-
-date_str = today.strftime("%d-%m-%Y")
 
 # Load and cache data - only once per session
 
 @st.cache_data
 def load_product_data():
     script_dir = Path(__file__).parent
-    filename = script_dir / f"products_{date_str}.7z"
+    filename = script_dir / f"products_25-06-2025.7z"
 
     # Use a temporary directory for extraction
     with tempfile.TemporaryDirectory() as tmpdirname:
