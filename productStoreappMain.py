@@ -361,7 +361,7 @@ with st.sidebar:
             st.markdown(f"**Units:** {', '.join(selected_units[:3])}{'...' if len(selected_units) > 3 else ''}")
         if selected_categories:
             st.markdown(f"**Categories:** {', '.join(selected_categories[:2])}{'...' if len(selected_categories) > 2 else ''}")
-
+st.markdown("**<-- Filter in >>**")
 st.caption(f"**Data Note:** This dashboard contains data inconsistencies including missing quantities, varied product descriptions, and consolidated categories from multiple sources. These inconsistencies will be reflected in search results and filters.")
 st.markdown("**Sort by Value Per Quantity**")
 # Apply all filters
