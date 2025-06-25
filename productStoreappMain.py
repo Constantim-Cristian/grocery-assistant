@@ -1,13 +1,14 @@
-
+import py7zr
 import streamlit as st
 import pandas as pd
-import os
 import base64
 import math
 import uuid
 from datetime import datetime
 from pathlib import Path
-
+from io import BytesIO
+import tempfile
+import shutil
 
 def get_base64_of_bin_file(bin_file):
     with open(bin_file, 'rb') as f:
@@ -182,11 +183,24 @@ today = datetime.now()
 date_str = today.strftime("%d-%m-%Y")
 
 # Load and cache data - only once per session
+
 @st.cache_data
 def load_product_data():
     script_dir = Path(__file__).parent
-    filename = script_dir / f"products_{date_str}.json"
-    df = pd.read_json(filename)
+    filename = script_dir / f"products_{date_str}.7z"
+
+    # Use a temporary directory for extraction
+    with tempfile.TemporaryDirectory() as tmpdirname:
+        with py7zr.SevenZipFile(filename, mode='r') as archive:
+            archive.extractall(path=tmpdirname)
+
+        # Assuming there's only one file inside
+        extracted_dir = Path(tmpdirname)
+        extracted_file = next(extracted_dir.glob("*.json"))
+
+        # Read the JSON file
+        df = pd.read_json(extracted_file)
+
     df = df.sort_values('MetrPrice', ascending=True)
     df['product_uuid'] = df.apply(lambda row: generate_product_uuid(
         row['Store'], row['Title'], row['Current Price'], row['Quantity']), axis=1)
@@ -352,7 +366,7 @@ with st.sidebar:
             st.markdown(f"**Categories:** {', '.join(selected_categories[:2])}{'...' if len(selected_categories) > 2 else ''}")
 
 st.caption(f"**Data Note:** This dashboard contains data inconsistencies including missing quantities, varied product descriptions, and consolidated categories from multiple sources. These inconsistencies will be reflected in search results and filters.")
-
+st.markdown("**Sort by Value Per Quantity**")
 # Apply all filters
 filtered_df = df.copy()
 
