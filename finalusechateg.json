@@ -1,0 +1,2967 @@
+[
+  {
+    "Original Category": "Alimente de bază",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Apă",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Auto",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Bere și cidru",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Brânzeturi",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Băuturi energizante",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Băuturi răcoritoare",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Băuturi spirtoase",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cafea",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Carne",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Ceai",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cereale",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Chipsuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Ciocolată",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Coffee Corner",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Conserve și murături",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Desert rece",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Detergent și balsam rufe",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Diete speciale",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Divertisment",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Dropsuri și jeleuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Electrice",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Fructe",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Fructe și legume congelate",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Gem miere și creme tartinabile",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Hrană animale de companie",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Hrană bebeluși",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Hârtie igienică și șervețele",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Iaurt sana și smântână",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Igienă intimă",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Igienă orală",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Inghetata si Deserturi",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Insecticide",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Lapte",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Legume",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Mezeluri",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Napolitane biscuiți și prăjituri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Orez și legume uscate",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Ouă",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Papetarie si Decoratiuni",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Paste",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Pate",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Popcorn pufuleți și covrigei",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Produse BIO și dietetice",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Produse de curățenie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Produse de patiserie",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Produse sezon",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Produse uz general",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Produse îngrijire animale de companie",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Pâine și specialități",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Ready to eat",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Semințe arahide și fructe uscate",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Semipreparate",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Sezon BBQ",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Sezon Gradina",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Sezon Vară",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Siropuri",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Unt și margarină",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Vinuri",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Zahăr făină și mălai",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Făină mălai și griș",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Faina malai si gris",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Îmbrăcăminte si intretinere",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Îngrijire corp",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Îngrijire păr",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Îngrijire ten",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Îngrijire și igienă bebe",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Țigări",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Țigări electronice",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Absorbante și tampoane",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Accesorii animale de companie",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Alte articole curățenie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Alte dulciuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Alte produse de patiserie",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Alte produse igienă orală",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Alte păsări",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Alte snacks-uri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Alte tipuri de paste",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Anticalcar",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Aperitiv și vermut",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Apă aromatizată",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Apă carbogazoasă",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Apă de gură",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Apă plată",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Articole pentru gătit",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Balsam de rufe",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Balsam măști și tratamente pentru păr",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Batoane",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Batoane de cereale",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Bază de mâncare",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Bere",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bere cu arome",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Biscuiti fursecuri prajituri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Biscuiți",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Borș",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Bricolaj",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Brutărie",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Brânză proaspătă",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Brânză topită",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Bulion și pastă de tomate",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Bureți și lavete",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Băcănie",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Bărbierit",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Băuturi din lapte și ice coffee",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Băuturi non alcoolice",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Băuturi vegetale",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cafea boabe",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cafea capsule",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cafea instant și mixuri",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cafea măcinată",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cașcaval",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Cereale bebe",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Chefir",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Cidru",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cofetărie",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Condimente",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve carne",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Conserve fructe",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve legume",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve murături",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve mâncare gătită",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve pește",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Covrigei și mix uri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Covrigei și sticksuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Covrigei,pufuleti si mixuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Covrigei,pufuleti și mixuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Creme tartinabile și miere",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Creme tartinabile si miere",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Creme budinci și semipreparate",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Cremă de brânză",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Cremă pentru ten",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Croissant",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Curățare și demachiere",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Curățenie și întreținere casă",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Cârnați și crenvurști",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Cârnați și crenvuști",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Deodorante și antiperspirante",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Detergent capsule",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Detergent lichid",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Detergent pudră",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Detergent vase",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Drinks",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Dropsuri gumă și jeleuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Dulceață și gem",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Dulciuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Electronice și accesorii",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Energizante",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Epilare",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Epilare și bărbierit",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Fashion",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Fidea și tăiței",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Folii pungi și alte articole de menaj",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Formulă lapte",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Frișcă",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Fructe confiate",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Fructe congelate",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Fructe de mare",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Fructe proaspete",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Fusili și penne",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Făină",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Gel de duș",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Gheață",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Gin",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Griș și pesmet",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Grădină",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Grătar",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Hrană câini",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Hrană pisici",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Hârtie igienică",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Iaurt",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Iaurt cu fructe",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Iaurt de baut",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Ice Tea",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Icre",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Igienă sexuală",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Iqos",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Jambon și bacon",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Jucării",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Lactate brânzeturi și ouă",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Lapte UHT",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Legume congelate",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Legume proaspete",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Legume uscate",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Lichior",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Lumanari si candele",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Manichiură și pedichiură",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Margarină",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Musli",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Mușchi file",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Măcelărie și pește",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Mălai",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Măști și tratamente",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Napolitane",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Napolitane si nuga",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Odorizante și lumânări",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Orez",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Oua si vopsea",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Oțet",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Papetărie",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Parizer",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pastă de dinți",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Pastă de tomate și sosuri",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Patiserie",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Patiserie congelata",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Patiserie și deserturi",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Periută de dinți",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Peste si icre",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pet Shop",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Pește",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pește și fructe de mare",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pizza",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Popcorn",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Porc",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Praf de copt,drojdie și bicarbonat",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Praline și bomboane",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Produse congelate",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Produse de styling",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Produse instant",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Produse make up",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Produse non alimentare",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Produse parafarmacie",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Produse pentru corp",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Produse pentru petrecere",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Produse vegetale",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Prosoape de bucătărie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Protecție solară",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Prăjituri și rulade",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Pui",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pâine și chifle",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Rom",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Saci menajeri",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Salam",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Salam si carnati",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Salate",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Sana",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Sare și piper",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Scutece",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Scutece adulți",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Semințe și alune",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Semipreparate și ready to eat",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Seturi cadou",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Siropuri și nectar",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Smântână",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Snack uri sărate",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Snacks",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Soluții curățare",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Soluții de scos pete și înălbitori",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Sosuri",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Spaghete și tagliatelle",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Specialități",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Specialități brânzeturi",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Specialități panificație",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Sucuri carbogazoase",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Sucuri naturale",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Sucuri necarbogazoase",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Sunca si alte specialitati",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Săpunuri",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Tablete",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Telemea de capră",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Telemea de oaie",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Telemea de vacă",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Ulei",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Unt",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Vape uri",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Verdețuri",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Vin",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vin alb",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vin roze",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vin roșu",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vin spumant și șampanie",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vitamine și suplimente",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Vită",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Vodka",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Whisky",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Zacuscă",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Zahăr",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Zahăr vanilat și esențe",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "neo",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Înghețată la cutie",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Înghețată pe băț și cornet",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Întreținere corp",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Șampon",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Șampon și săpun",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Șervețele umede",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Șervețele uscate și umede",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Șuncă și kaizer",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Țigări",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Accesorii",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Accesorii bagaje",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Alte accesorii bebe",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Alte produse",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Alte produse igienă dentară",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Bază mâncare",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Bere fără alcool",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Brandy și coniac",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bulion și paste de tomate",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Băcănie BIO",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Băuturi BIO",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cocktail uri",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Dietă sportivă",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Dulciuri și snacks BIO",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Formule lapte",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Fructe BIO",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Hrană pești și țestoase",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Hrană păsări și rozătoare",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Legume BIO",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Loțiune intimă și șervețele umede",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Mălai",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Nectar și siropuri",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "On Trend",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Palincă țuică și băuturi tradiționale",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Parfumuri",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Periuțe de dinți",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Piure",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Produse asiatice",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Produse fără gluten",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Produse fără lactoză",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Produse fără zahăr",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Produse libaneze",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Produse mexicane",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Produse semipreparate",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Tequila",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vopsea de păr",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Accesorii birou",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Accesorii machiaj",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Accesorii par",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Accesorii pentru gratar",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Accesorii si dispozitive medicale",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Accesorii tutun",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Adaos alimentar",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Adezivi",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Alb Romania",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Alte specialitati",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Ambalaj mic",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Amenajeri interioare",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Apa carbogazoase",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Apa cu arome",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Apa cu vitamine",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Aparate ingrjire personala",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Aperitive",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Aranjarea mesei",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Ardei",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Articole camping",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Articole pentru coacere",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Articole pentru gravide",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Articole petrecere",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Articole unica folosinta",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Bagaj",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Baie si dus",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Baie si igiena",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Banane si fructe exotice",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Baterii",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Baton",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Bauturi",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bauturi alcoolice",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bauturi cafea",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bauturi din fructe si plante",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bauturi nealcoolice",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bebe",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Bere Doza",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bere PET",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bere artizanala si speciala",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bere fara alcool",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bere sticla",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Beri cu aroma",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bio",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Bio si vegana",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Biscuiti cu crema",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Biscuiti sarati",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Biscuiti simpli si cookies",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Boluri",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Borcanase",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Brandy",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Branza pentru gatit",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Branzeturi",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Brichete",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Brutarie si patiserie",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Bureti vase si lavete",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Buze",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Cabluri si prize",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Cafea Capsule",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cafea solubila",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Caiete si coperti",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Cake bar",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Cani filtrante si termos",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Carbuni",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Carne tocata",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Carte adolescenti",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Carti adulti",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Carti de colorat",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Carti scolare si limbi straine",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Cartofi",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Caserola",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Ceai aromat",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Ceai de plante",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Ceai verde si negru",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Ceapa si usturoi",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Cidru",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Citrice",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Cola",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Compot fructe",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Condimente si plante aromatice",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve carne",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Conserve legume",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Conserve peste si fructe de mare",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Constructii",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Corectoare",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Cosmetice",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Creatie si arte",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Creioane",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Cremwursti si carnati",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Curcan",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Cutite",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "De la producatori locali",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Desen",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Detergent automat",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Detergent automat vase",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Detergent manual",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Detergent manual vase",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Detergenti universali",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Dezinfectant suprafete",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Drajeuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Dropsuri si acadele",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Duceata gem si miere",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Dulciuri turcesti",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Echipamente interior auto",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Electronica uz casnic",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Energizante sportivi",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Europa (Exc. Franta)",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Faina si malai",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Făină mălai și griș",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Fara gluten",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Fara lactoza",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Fara zahar",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Farfurii",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Figurine",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Folii si pungi alimentare",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Formule de lapte",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Franta",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Fructe confiate",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Fructe de mare si crustacee",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Fructe de padure",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Fructe de sezon",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Fructe galbene",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Fructe rosii",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Fructe si legume",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Fructe uscate",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Fursecuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Gin si tequila",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Grapefruit si alte citrice",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Gratare",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Gratare si oale presiune",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Grecesc si natural",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Guma de mestecat",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Hartie igienica si servetele",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Heets",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Hrana umeda",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Hrana uscata",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Iaurt cu aroma",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Iaurt vegan si bio",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Igiena sexuala",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Iluminat",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Inalbitor rufe si apret",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Incontinenta",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Ingrediente patiserie",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Ingrijire buze",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Ingrijire corporala",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Ingrijire fata si corp",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Ingrijire ochi",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Ingrijire ten",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Instalatii",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Intretinere Incaltaminte",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Intretinere mobila",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Invatam si ne jucam",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Jeleuri si caramele",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Jocuri de rol",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Jocuri de societate",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Jocuri educative",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "La pahar",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Lapte pasteurizat",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Lapte pentru cafea",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Lapte si mancare bebe",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Lapte vegetal",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Legume diverse",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Legume simple",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Leguminoase",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Lipici si adezivi",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Lotiuni si servetele",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Lumea noua",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Macelarie si peste",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Maioneza si ketchup",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Markere",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Masini",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Masline si aperitive",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Masti",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Material scolar",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Medicamente fara prescriptie",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Mere si pere",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Mixuri cu legume",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Mozzarella",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Multi fruct",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Multipack",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Muraturi",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Muraturi si legume fierte",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Mustar",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Oale si capace",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Ochi",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Odorizante",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Odorizanti auto",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Organizare si arhivare",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Pahar",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Pahare si cani",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Paine ambalata",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Papusi si accesorii",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Parizer si pate",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pasare",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Paste tartinabile",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Paste tomate si bulion",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Pe bat",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Pentru ceai si cafea",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Pentru copii",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Periute de dinti electrice si accesorii",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Peste Romania",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Peste import",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Peste marinat si semipreparat",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Piscoturi si vafe",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Pizza si tarte",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Plante aromatice",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Plusuri",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Portocale",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Povesti",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Prajituri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Prajituri si foietaj",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Prajituri si torturi",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Prim ajutor si dezinfectant",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Produse afumate",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Produse cu proteine",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Produse din hartie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Produse ingrijire copii",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Produse internationale",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Produse styling",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Prosoape de hartie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Prosoape hartie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Pui intreg si piese",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pui premium si preparate",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Puzzle",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Radacinoase",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Ready to cook",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Republica Moldova",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Rosii si castraveti",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Rosu Romania",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Roze Romania",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Salam crud uscat",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Salam fiert afumat",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Sampanie",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Sampoane si geluri de dus",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Sampon si balsam",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Sana kefir si lapte batut",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Sapun",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Scaune si umbrele",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Seturi",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Seturi de constructii",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Siguranta si securitate auto",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Smantana",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Smantana pentru gatit",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Snacks uri si recompense",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Solutii anticalcar",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii bucatarie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii curatare exterior",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii curatare interior",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii curatat covoare",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii curatat podele",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii geamuri",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii intretinere rufe",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii specializate baie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii specializate bucatarie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Solutii suprafete baie",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Specialitati carne proaspata",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Specialitati porc",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Specialitatii pasare",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Spumant rose",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Stilouri si pixuri",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Sucuri cu aroma de fructe",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Sunca",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Supe si piureuri",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Suplimente alimentare",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Sushi",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Tacamuri",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Tigai",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Tigari de foi tutun pentru rulat",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Tonice si Lime",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Tratamente si ata dentara",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Uleiuri auto",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Unelte si scule",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Ustensile pentru gatit si accesorii",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Vafa si cornet",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Varza si conopida",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Vegane",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Vegetale",
+    "New Category": "Specialty & Organic"
+  },
+  {
+    "Original Category": "Vesela unica folosinta",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Vin Spumant",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vopsea par",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Zahar si indulcitor",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Accesorii bauturi",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Apa minerala",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Apă tonică",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Asternut si accesorii",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Bautura carbogazoasa",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bază de mâncare și condimente",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Biscuiți și napolitane",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Brânzeturi și cașcaval",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Băcănie BIO",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Băuturi carbogazoase",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Băuturi necarbogazoase",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cafea și ceai",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Carne și pește",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Cereale si batoane",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Coca Cola",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cocktail",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cofetărie și patiserie",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Curațenia casei",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Dulciuri de sezon",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Fructe uscate si mix uri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Fructe și legume BIO",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Făină mălai și griș",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Gem si dulceata",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Grătar și grădină",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Gustari mic dejun",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Hârtie igienică și prosoape",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Iaurt sana și chefir",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Lactate și ouă BIO",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Lapte vegetal",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Legume și fructe congelate",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Odorizante și lumânări",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Papetărie",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Parafarmacie",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Party",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Paste făinoase și orez",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Pui și curcan",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Semințe și alune",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Smântână și frișcă",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Stimulente și jucării sexuale",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Ulei și oțet",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Zahăr și produse de patiserie",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Înghețată",
+    "New Category": "Frozen Foods"
+  },
+  {
+    "Original Category": "Întreținere rufe",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Brânzeturi BIO",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Ceaiuri pentru alăptare și relaxare",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Cereale piureuri și gustări",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Consumabile",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Formule și lapte praf",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Gustări sănătoase",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Hidratare",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Loțiuni creme și uleiuri de masaj",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Masuratori",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Maternitate",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Patiserie sărată",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Produse de îngrijire a pielii",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Produse pentru îngrijirea tenului",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Scule electrice",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Scutece și șervețele umede",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Suplimente și vitamine",
+    "New Category": "Health & Pharmacy"
+  },
+  {
+    "Original Category": "Suzete",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Unt și margarină",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Absorbante si tampoane",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Accesorii pentru hrănire",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Acumulatoare și încărcătoare",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Alte pasari",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Apa",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Apa de gura",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Apa plata",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Bacanie",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Balsam măști și tratamente pentru păr",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Biberoane tetine și suzete",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Biscuiti",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Biscuiti fursecuri prajituri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Branza proaspata",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Branza topita",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Cafea macinata",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Cascaval",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Cereale piureuri și gustări",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Covrigei,pufuleti si mixuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Crema de branza",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Creme budinci și semipreparate",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Croissante",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Curatare ten",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+
+    "Original Category": "Curatenie mobila",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Curatenie si dezinfectie WC",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Deodorante",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Deserturi",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Dropsuri gumă și jeleuri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Duceata gem si miere",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Folii pungi și alte articole de menaj",
+    "New Category": "Household & Cleaning"
+  },
+  {
+    "Original Category": "Frisca",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Fusilli și penne",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Gem miere și creme tartinabile",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Hrană păsari și rozătoare",
+    "New Category": "Pet Care"
+  },
+  {
+    "Original Category": "Iaurt sana și smântână",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Ice tea",
+    "New Category": "Non Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Lactate brânzeturi și ouă",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Lapte si iaurt BIO",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Lapte vegetal și băuturi speciale pentru alăptare",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Loțiuni creme și uleiuri de masaj",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Mezeluri și specialități",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Napolitane biscuiți și prăjituri",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Neo",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Otet",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Oua",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Palincă țuică și băuturi tradiționale",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Pasta de dinti",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Patiserie proaspata",
+    "New Category": "Bakery & Bread"
+  },
+  {
+    "Original Category": "Periute de dinti",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Peste",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Pizza și semipreparate congelate",
+    "New Category": "Convenience & Ready Meals"
+  },
+  {
+    "Original Category": "Popcorn pufuleți și covrigei",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Porc și vită",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Praf de copt drojdie și bicarbonat",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Praf de copt,drojdie și bicarbonat",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Praline si bomboane",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Produse din tutun fără ardere",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Produse pentru copii",
+    "New Category": "Baby & Kids"
+  },
+  {
+    "Original Category": "Produse pentru epilat",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Produse sezoniere",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Protectie solara",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Sana kefir si lapte batut",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Sare si piper",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Semințe arahide și fructe uscate",
+    "New Category": "Snacks & Sweets"
+  },
+  {
+    "Original Category": "Specialitati",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Telemea",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Ten",
+    "New Category": "Personal Care & Cosmetics"
+  },
+  {
+    "Original Category": "Tigari",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Tigari de foi tutun pentru rulat",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Tutun",
+    "New Category": "Tobacco & Accessories"
+  },
+  {
+    "Original Category": "Unelte",
+    "New Category": "General Merchandise"
+  },
+  {
+    "Original Category": "Unt si margarina",
+    "New Category": "Dairy & Eggs"
+  },
+  {
+    "Original Category": "Verdeata",
+    "New Category": "Produce"
+  },
+  {
+    "Original Category": "Vin rose",
+    "New Category": "Alcoholic Beverages"
+  },
+  {
+    "Original Category": "Vita",
+    "New Category": "Meat Poultry & Fish"
+  },
+  {
+    "Original Category": "Zahăr făină și mălai",
+    "New Category": "Pantry Staples"
+  },
+  {
+    "Original Category": "Întreținere bucătărie",
+    "New Category": "Household & Cleaning"
+  }
+]

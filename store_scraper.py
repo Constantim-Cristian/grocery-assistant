@@ -189,7 +189,7 @@ def get_with_infinite_retries(url, initial_wait=1, max_wait=21):
             wait_time = min(wait_time * 1.1, max_wait)
 
 def chateg():
-    with open(r'C:\Users\bibo\Desktop\proj\!mainFinish\finalusechateg.json', 'r', encoding='utf-8') as f1:
+    with open(r'finalusechateg.json', 'r', encoding='utf-8') as f1:
         reader1 = json.load(f1)
     fdata = reader1
     return fdata
@@ -491,8 +491,8 @@ def main():
     print(F"Product data saved to products_{date_str}.json")
     
     # Save slugs data
-    with open('slugs.json', 'w', encoding='utf-8') as json_file:
-        json.dump(slugs_data, json_file, indent=4, ensure_ascii=False)
+   #with open('slugs.json', 'w', encoding='utf-8') as json_file:
+    #   json.dump(slugs_data, json_file, indent=4, ensure_ascii=False)
     
     print("Slugs data saved to slugs.json")
    
